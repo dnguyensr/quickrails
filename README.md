@@ -17,3 +17,7 @@ This repo is meant for the quick deployment of a rails 5 app for the purposes of
   * Coverage with Coveralls, simple-cov
   * Travis-CI yml
   * Heroku proc
+  * Facebook, Twitter login with Devise/oauth
+
+# Other plans
+  * Quick deploy of Rails API-only app
