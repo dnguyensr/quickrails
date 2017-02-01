@@ -4,19 +4,20 @@ This repo is meant for the quick deployment of a rails 5 app for the purposes of
 
 ## Getting started
 * Clone repo
-* Pull desired branches
+* Pull desired branches (List in current branches section)
 * Bundle
-* Code away
+* Update remote git url with:
+    git remote seturl https://github.com/USERNAME/OTHERREPOSITORY.git
 
 ## Current branches
+
 
 ## Future branches
   * User model with Devise gem
   * Post MVC
-  * Testing with RSpec, shoulda
-  * Coverage with Coveralls, simple-cov
-  * Travis-CI yml
-  * Heroku proc
+  * Testing with RSpec
+  * Coverage with Coveralls
+  * CI/CD with Travis-CI to Heroku/AWS
   * Facebook, Twitter login with Devise/oauth
 
 # Other plans
